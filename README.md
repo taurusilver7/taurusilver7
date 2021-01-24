@@ -11,7 +11,7 @@
 - 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster.
 - 🚀 
 - ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
-- 📫 How to reach me: [taurusilver7/contact](https://taurusilver7.github.io/profile/#contact).
+- 📫 Hit this over the terminal or console, to know more about me. [taurusilver7/contact](https://taurusilver7.github.io/profile/#contact).
 
 <hr>
 <h3 align="center">Show me your cards</h3>

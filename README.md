@@ -33,11 +33,11 @@
 </p>
 <br/>
 <a href="https://github.com/taurusilver7">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=buefy&show_icons=true" alt="Github Streak Stats">
+    <img width="500" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=buefy&show_icons=true" >
 </a>
 <br/>
 <a href="https://github.com/taurusilver7">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&theme=buefy&show_icons=true" />
+    <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&layout=compact&theme=tokyonight&langs_count=10">
 </a>
 <br/>
 <a href="https://github.com/taurusilver7">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm  <a href="https://taurusilver7.github.io/profile/">Prasad</a></h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 📍 I'm a front-end developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Express, dev-tools like Firebase and cloud services like AWS, Heroku.
-- ⭐ I'm passionate about web, mobile technoloiges and open source contribution. I am adaptable and always up for learning a new technology and explore how it solves common problems! I'm also a self proclaimed photshop designer & internet surfer.
-- 🌱 I’m currently working on social media clones with front-end technology & learning back-end technologies like flask(python) 
+📍 I'm a front-end developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Express, dev-tools like Firebase and cloud services like AWS, Heroku.
+⭐ I'm passionate about web, mobile technoloiges and open source contribution. I am adaptable and always up for learning a new technology and explore how it solves common problems! I'm also a self proclaimed photshop designer & internet surfer.
+🌱 I’m currently working on social media clones with front-end technology & learning back-end technologies like flask (python).
 - 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster.
 - ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
 
@@ -31,7 +31,7 @@
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&theme=buefy&show_icons=true" />
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&theme=buefy&layout=compact" />
 </a>
-
+<br/>
 <br/>
 <p align="center">
     Here is a Gift for you

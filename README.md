@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍  I'm a full stack developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Flask (Python), Spring Boot (Java), and cloud services like AWS, Heroku. I am adaptable and always up for learning a new technology and explore how it solves common problems!
-- 🔭 I’m currently working on [ExamSecure](https://examsecure.rajrajhans.com/), [SafePass Android](https://github.com/rajrajhans/safepass-android).
+- 📍  I'm a front-end developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Express, dev-tools like Firebase and cloud services like AWS, Heroku. I am adaptable and always up for learning a new technology and explore how it solves common problems!
+- 🔭 I'm passionate about web, mobile technoloiges and open source contribution. I am adaptable and always up for learning a new technology and explore how it solves common problems! I'm also a self proclaimed photshop designer & internet surfer.
 - 🌱 I’m currently learning [React Native](https://github.com/rajrajhans/safepass-android), [AWS Services like Rekognition, Lambda, EC2, RDS](https://examsecure.rajrajhans.com). 
 - 👉🏻 I'm a firm believer in "[learning in public](https://www.swyx.io/learn-in-public/)", as it helps me be more accountable and also helps me grow. 🚀 Often, I document my learnings and post them as blogs at [rajrajhans.com](https://rajrajhans.com).
 - 📫 How to reach me: [rajrajhans.com/contact](https://rajrajhans.com/contact).

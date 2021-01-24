@@ -32,17 +32,19 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
 <br/>
-<a href="https://github.com/taurusilver7">
-    <img width="500" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=tokyonight&show_icons=true" >
-</a>
-<br/>
-<a href="https://github.com/taurusilver7">
-    <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&layout=compact&theme=tokyonight&langs_count=6">
-</a>
-<br/>
-<a href="https://github.com/taurusilver7">
-    <img width="500" alt="taurusiver7's github stats" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-</a>
+<p align="center">
+    <a href="https://github.com/taurusilver7">
+        <img  width="500" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=tokyonight&show_icons=true" >
+    </a>
+    <br/>
+    <a href="https://github.com/taurusilver7">
+        <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&layout=compact&theme=tokyonight&langs_count=6">
+    </a>
+    <br/>
+    <a href="https://github.com/taurusilver7">
+        <img width="500" alt="taurusiver7's github stats" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+    </a>
+</p>
 <br/>
 <p align="center">
     <img width="500" src="https://camo.githubusercontent.com/63f8c9cac63c534e42b7e1c3ae4732db7618e6768027885522c47ee8e6d3e230/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6f6e656461726b26616e696d6174696f6e3d64656661756c74266c61796f75743d64656661756c74" />

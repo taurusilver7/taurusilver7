@@ -41,7 +41,7 @@
 </a>
 <br/>
 <a href="https://github.com/taurusilver7">
-    <img width="500" alt="taurusiver7's github stats" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+    <img width="500" alt="taurusiver7's github stats" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&theme=buefy&show_icons=true" >
 </a>
 <br/>
 <p align="center">

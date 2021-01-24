@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&theme=buefy&show_icons=true" />
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=buefy&show_icons=true" alt="Github Streak Stats">
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&theme=buefy&show_icons=true" />
+  <img slign="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=buefy&show_icons=true" alt="Github Streak Stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&theme=buefy&layout=compact" />
 </a>
 <br/>

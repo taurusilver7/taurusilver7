@@ -1,6 +1,6 @@
-### Hi there 👋
-
-
+<h1 align="center">Hi there 👋, I'm  <a href="https://taurusilver7.github.io/profile/">Prasad</a></h1>
+***
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 Here are some ideas to get you started:
 - 📍 I'm a front-end developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Express, dev-tools like Firebase and cloud services like AWS, Heroku. I am adaptable and always up for learning a new technology and explore how it solves common problems!

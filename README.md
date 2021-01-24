@@ -1,13 +1,10 @@
-<h1 align="center">Hi there 👋, I'm  <a href="https://taurusilver7.github.io/profile/">Prasad</a></h1>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm  <a href="https://taurusilver7.github.io/profile/">Prasad</a></h1>
 
-Here are some ideas to get you started:
-- 📍 I'm a front-end developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Express, dev-tools like Firebase and cloud services like AWS, Heroku. I am adaptable and always up for learning a new technology and explore how it solves common problems!
-- ⭐ I'm passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photshop designer & internet surfer.
-- 🔭 I’m currently working on social media clones with front-end technology
-- 🌱 I’m currently learning back-end technologies like flask(python)
-- 👉🏻 I'm a firm believer in "learning in public", as it helps me be more accountable and grow faster.
-- 👯 I am willing to collaborate as a team player building better code.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 📍 I'm a front-end developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Express, dev-tools like Firebase and cloud services like AWS, Heroku.
+- ⭐ I'm passionate about web, mobile technoloiges and open source contribution. I am adaptable and always up for learning a new technology and explore how it solves common problems! I'm also a self proclaimed photshop designer & internet surfer.
+- 🌱 I’m currently working on social media clones with front-end technology & learning back-end technologies like flask(python) 
+- 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster.
 - ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
 
 <hr>
@@ -15,8 +12,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>

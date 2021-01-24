@@ -32,15 +32,17 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
 <br/>
-
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=buefy&show_icons=true" alt="Github Streak Stats">
+<a href="https://github.com/taurusilver7">
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=buefy&show_icons=true" alt="Github Streak Stats">
+</a>
 
 <a href="https://github.com/taurusilver7">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&theme=buefy&show_icons=true" />
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&theme=buefy&layout=compact" />
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&theme=buefy&show_icons=true" />
 </a>
-<br/>
-<br/>
+
+<a href="https://github.com/taurusilver7">
+    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&theme=buefy&layout=compact" />
+</a>
 <br/>
 <p align="center">
     <img width="500" src="https://camo.githubusercontent.com/63f8c9cac63c534e42b7e1c3ae4732db7618e6768027885522c47ee8e6d3e230/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6f6e656461726b26616e696d6174696f6e3d64656661756c74266c61796f75743d64656661756c74" />

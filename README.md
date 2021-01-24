@@ -2,7 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍  I'm a front-end developer proficient in JavaScript and ReactJS, with working knowledge of backend frameworks like Express, dev-tools like Firebase and cloud services like AWS, Heroku. I am adaptable and always up for learning a new technology and explore how it solves common problems!
+- 📍  I'm a front-end developer proficient in JavaScript and ReactJS,
+    with working knowledge of backend frameworks like Express,
+    dev-tools like Firebase and cloud services like AWS, Heroku.
+    I am adaptable and always up for learning a new technology and explore how it solves common problems!
 - 🔭 I'm passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer & internet surfer.
 - 🌱 I’m currently working on web app clones using front-end technology & learning back-end technologies. 
 - 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster.
@@ -37,10 +40,8 @@
 </a>
 <br/>
 <br/>
-<p align="center">
-    Here is a Gift for you
-</p>
-<br>
+<br/>
 <p align="center">
     <img width="500" src="https://camo.githubusercontent.com/63f8c9cac63c534e42b7e1c3ae4732db7618e6768027885522c47ee8e6d3e230/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6f6e656461726b26616e696d6174696f6e3d64656661756c74266c61796f75743d64656661756c74" />
 </p>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=taurusilver7" alt="blueedge"/> </p>  </p>

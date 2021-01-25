@@ -8,8 +8,7 @@
     I am adaptable and always up for learning a new technology and explore how it solves common problems!
 - 🔭 I'm passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer & internet surfer.
 - 🌱 I’m currently working on web app clones using front-end technology & learning back-end technologies. 
-- 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster.
-- 🚀 
+- 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster. 
 - ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
 - 📫 Hit this over the terminal or console, to know more about me. [taurusilver7/contact](https://taurusilver7.github.io/profile/#contact).
 

@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍  I'm a front-end developer proficient in JavaScript and ReactJS,
+- 📍  I'm a full-stack web developer proficient in JavaScript and ReactJS,
     with working knowledge of backend frameworks like Express, Node(IDE),
     dev-tools like Firebase and cloud services like AWS, Heroku.
     I am adaptable and always up for learning a new technology and explore how it solves common problems!

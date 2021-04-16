@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍  I'm a full-stack web developer proficient in JavaScript and ReactJS,
-    with working knowledge of backend frameworks like Express, Node(IDE),
+- 📍  I'm a front-end web developer proficient in JavaScript and ReactJS,
+    with working knowledge of backend frameworks like Express, Node(IDE), database management system in NO-SQL database (mongoDB)
     dev-tools like Firebase and cloud services like AWS, Heroku.
     I am adaptable and always up for learning a new technology and explore how it solves common problems!
 - 🔭 I'm passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer & internet surfer (period)
@@ -22,6 +22,7 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="40" height="40"/>
+<img src=https://user-images.githubusercontent.com/48161361/112209699-0708fd00-8c1a-11eb-92c6-d7946cabde2a.png alt=next width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg alt=sass width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="40" height="40"/>

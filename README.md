@@ -24,6 +24,7 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="40" height="40"/>
 <img src=https://user-images.githubusercontent.com/48161361/112209699-0708fd00-8c1a-11eb-92c6-d7946cabde2a.png alt=next width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg alt=sass width="40" height="40"/>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg alt=tailwind width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="40" height="40"/>

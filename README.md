@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍  I'm a front-end web developer proficient in JavaScript and ReactJS,
-    with working knowledge of backend frameworks like Express, Node(IDE), database management system in NO-SQL database (mongoDB)
+- 📍  I'm a front-end web developer proficient in React-JS and Next-JS v.12,
+    with working knowledge of backend frameworks like Express, Node(IDE), database management system in NO-SQL database (mongoDB),
     dev-tools like Firebase and cloud services like AWS, Heroku.
     I am adaptable and always up for learning a new technology and explore how it solves common problems!
 - 🔭 I'm passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer.

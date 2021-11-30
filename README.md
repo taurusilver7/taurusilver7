@@ -39,7 +39,7 @@
     </a>
     <br/>
     <a href="https://github.com/taurusilver7">
-        <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&layout=compact&theme=tokyonight&langs_count=6">
+        <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&layout=compact&theme=tokyonight&langs_count=7">
     </a>
     <br/>
     <a href="https://github.com/taurusilver7">

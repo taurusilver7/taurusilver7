@@ -23,11 +23,11 @@
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>  -->
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/taurusilver7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/taurusilver7"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/taurusilver7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/taurusilver7/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
@@ -66,7 +66,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="taurusilver's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=taurusilver7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!-- Github Readme-Coding-Quotes  -->
 <!-- <p align="center">

@@ -35,7 +35,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/taurusilver7">
-        <img  width="500" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=tokyonight&show_icons=true" >
+        <img  width="500" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=dracula&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&show_icons=true" >
     </a>
     <br/>
     <a href="https://github.com/taurusilver7">

@@ -37,18 +37,22 @@
     <a href="https://github.com/taurusilver7">
         <img  width="500" alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=taurusilver7&theme=dracula&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&show_icons=true" >
     </a>
-    <br/>
-    <a href="https://github.com/taurusilver7">
-        <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&layout=compact&theme=tokyonight&langs_count=7">
-    </a>
-    <br/>
-    <a href="https://github.com/taurusilver7">
-        <img width="500" alt="taurusiver7's github stats" src="https://github-readme-stats.vercel.app/api?username=taurusilver7&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-    </a>
-</p>
+ </p>
+ <!-- https://github.com/taurusilver7/github-readme-stats -->
+<details align="center"> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/taurusilver7/github-readme-stats"><img alt="taurusilver7's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=taurusilver7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/taurusilver7/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurusilver7&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 <br/>
-<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!-- Github Readme-Coding-Quotes  -->
+<!-- <p align="center">
     <img width="500" src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default" />
-</p>
+</p> -->
 
 <p align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=taurusilver7" alt="blueedge"/> </p>  </p>

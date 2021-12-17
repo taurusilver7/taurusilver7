@@ -7,8 +7,8 @@
     dev-tools like Firebase.
     I am adaptable and always up for learning a new technology and explore how it solves common problems!
 - 🔭 passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer.
-- 🌱 I’m currently working on web app clones using front-end technology & learning back-end technologies. 
-- 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster. 
+- 🌱 currently working on web app clones using front-end technology & learning back-end technologies. 
+- 👉🏻 a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster. 
 - ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
 - 📫 Hit this over the terminal or console, to know more about me. [taurusilver7/contact](https://taurusilver7.github.io/portfolio/#contact).
 <hr>
@@ -31,7 +31,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<h3 align="center">Show me your cards</h3>
+<h3 align="center">My cards</h3>
 <br>
 
 <p align="center">

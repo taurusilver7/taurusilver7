@@ -4,9 +4,9 @@
 
 - 📍  I'm a front-end web developer proficient in React-JS and Next-JS v.12,
     with working knowledge of backend frameworks like Express, Node(IDE), database management system in NO-SQL database (mongoDB),
-    dev-tools like Firebase and cloud services like AWS, Heroku.
+    dev-tools like Firebase.
     I am adaptable and always up for learning a new technology and explore how it solves common problems!
-- 🔭 I'm passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer.
+- 🔭 passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer.
 - 🌱 I’m currently working on web app clones using front-end technology & learning back-end technologies. 
 - 👉🏻 I'm a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster. 
 - ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt=linux height="25"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" height="25" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code" height="25" />
+<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="photoshop" height="25" />
 </p>
 <br/>
 <p align="center">

@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍  I'm a front-end web developer proficient in React-JS and Next-JS v.12,
-    with working knowledge of backend frameworks like Express, Node(IDE), database management system in NO-SQL database (mongoDB),
-    dev-tools like Firebase.
-    I am adaptable and always up for learning a new technology and explore how it solves common problems!
+- 📍 I'm a Full-stack web developer proficient in React-JS and Next-JS v.12,
+    with working knowledge of backend frameworks like NodeJs(IDE) and Express, database management system in NO-SQL(MongoDB),
+    dev-tools like Firebase, Google Cloud.
+- ⚡ I am adaptable and always up for learning a new technology and explore how it solves common problems!
 - 🔭 passionate about web, mobile technoloiges and open source contribution. I'm also a self proclaimed photoshop designer.
 - 🌱 currently working on web app clones using front-end technology & learning back-end technologies. 
 - 👉🏻 a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster. 
@@ -21,6 +21,7 @@
 <p align="center">
 <!--   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>  -->
+    
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/taurusilver7?tab=repositories&sort=stargazers">

@@ -72,7 +72,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="taurusilver's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=taurusilver7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="taurusilver's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=taurusilver7&theme=xcode" /></a>
+
+<!-- activity graph theme bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true  -->
 
 <!-- Github Readme-Coding-Quotes  -->
 <!-- <p align="center">

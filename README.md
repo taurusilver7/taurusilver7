@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm  <a href="https://taurusilver7.github.io/profile/">Prasad</a></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">, I'm  <a href="https://taurusilver7.github.io/profile/">Prasad</a></h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

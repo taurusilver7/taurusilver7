@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍 A React Web developer, proficient in Javascript & React (Next-JS) for UI and Node, ExpressJS framework for the server. I've two years of working knowledge in both NOSQL & SQL databaese systems and various libraries revolving around React environment.
-- 👉 I've extensive knowledge in dev-tools like Firebase, Google Cloud, AWS..,
-- ⚡ am adaptable and always up for exploring a new tech-stack to solve burning problems!
+- 📍 A full-stack Web developer, proficient in Javascript & React (Next-JS) for the UI, and Node-Express.JS framework for the server. I have two+ years of working knowledge in both NO-SQL & SQL databaese systems and various libraries revolving around React environment.
+- 👉 I have extensive knowledge in dev-tools & services like Firebase, Google Cloud, AWS, OpenAI..,
+- ⚡ am adaptable and always up for exploring a new tech-stack to solve the burning problems!
 - 🔭 passionate about web, mobile technoloiges and open source contribution. I'm also a self-proclaimed photoshop designer.
-- 🌱 currently working on web clones & learning vaious back-end stacks. 
+- 🌱 currently working on a payment integration platform & diving into backend-stacks, LAMP..,
 - 👉🏻 a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster. 
 - ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
 - 📫 Hit this over the terminal or console, to know more about me. [taurusilver7](https://dev-profile-taurusilver.vercel.app/#about).

@@ -2,13 +2,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📍 A full-stack Web developer, proficient in Javascript & React (Next-JS) for the UI, and Node-Express.JS framework for the server. I have two+ years of working knowledge in both NO-SQL & SQL databaese systems and various libraries revolving around React environment.
+- 📍 A full-stack Web developer, proficient in Javascript & React (Next-JS) for the UI, and Node-Express.JS framework for the server. I have two+ years of working knowledge in both NO-SQL & SQL databases and various libraries revolving around the React environment.
 - 👉 I have extensive knowledge in dev-tools & services like Firebase, Google Cloud, AWS, OpenAI..,
 - ⚡ am adaptable and always up for exploring a new tech-stack to solve the burning problems!
-- 🔭 passionate about web, mobile technoloiges and open source contribution. I'm also a self-proclaimed photoshop designer.
+- 🔭 passionate about web, mobile technoloiges and open source contribution. I'm also a self-proclaimed Photoshop designer.
 - 🌱 currently working on a payment integration platform & diving into backend-stacks, LAMP..,
 - 👉🏻 a firm believer in "collaborating as a team builds better code", as it helps me be more accountable and grow faster. 
-- ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.
+- ⚡ Fun fact: The first message sent over the internet was "LOG". "LOGIN" was the original intended message, but the entire system crashed. This was done at MIT.
 - 📫 Hit this over the terminal or console, to know more about me. [taurusilver7](https://dev-profile-taurusilver.vercel.app/#about).
 <hr>
 
@@ -68,13 +68,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="taurusilver's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph?username=taurusilver7&theme=xcode" /></a>
-
-<!-- activity graph theme bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true  -->
-
-<!-- Github Readme-Coding-Quotes  -->
-<!-- <p align="center">
-    <img width="500" src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default" />
-</p> -->
+<a href="https://github-readme-activity-graph.vercel.app"><img alt="taurusilver's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=taurusilver7&theme=xcode&hide_border=true" /></a>
 
 <p align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=taurusilver7" alt="blueedge"/> </p>  </p>
